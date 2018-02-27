@@ -1,0 +1,93 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "ng2-styled-directive",
+        "scope": null,
+        "escapedName": "ng2-styled-directive",
+        "name": "ng2-styled-directive",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/ubuntu/workspace"
+    ]
+  ],
+  "_from": "ng2-styled-directive@latest",
+  "_id": "ng2-styled-directive@1.0.6",
+  "_inCache": true,
+  "_location": "/ng2-styled-directive",
+  "_nodeVersion": "8.9.3",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/ng2-styled-directive-1.0.6.tgz_1515244496248_0.2439367447514087"
+  },
+  "_npmUser": {
+    "name": "targus",
+    "email": "it.targus@gmail.com"
+  },
+  "_npmVersion": "5.5.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "ng2-styled-directive",
+    "scope": null,
+    "escapedName": "ng2-styled-directive",
+    "name": "ng2-styled-directive",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/ng2-styled-directive/-/ng2-styled-directive-1.0.6.tgz",
+  "_shasum": "c3f15d4b203d60d20cdbd47415bf33af78c8e7ed",
+  "_shrinkwrap": null,
+  "_spec": "ng2-styled-directive",
+  "_where": "/home/ubuntu/workspace",
+  "author": {
+    "name": "Bogdan Shapoval",
+    "email": "it.targus@gmail.com",
+    "url": "targus"
+  },
+  "bugs": {
+    "url": "https://github.com/Bogdan1975/ng2-styled-directive/issues"
+  },
+  "dependencies": {},
+  "description": "Angular 2 'styled' directive.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-z2arTCEVkiUWdhMybIURJEUI7iuxyj2/S57txmNAeWsd55Lkv5d6RaWgnmwiUEKT5GQ5+U7RYeDUmWv3CwBCxw==",
+    "shasum": "c3f15d4b203d60d20cdbd47415bf33af78c8e7ed",
+    "tarball": "https://registry.npmjs.org/ng2-styled-directive/-/ng2-styled-directive-1.0.6.tgz"
+  },
+  "gitHead": "606954a580c69416c72a74bbc0cee7190cc35af6",
+  "homepage": "https://github.com/Bogdan1975/ng2-styled-directive#readme",
+  "keywords": [
+    "angularjs",
+    "angular2",
+    "angular 2",
+    "directive",
+    "styled",
+    "styling",
+    "style",
+    "skin"
+  ],
+  "license": "MIT",
+  "main": "ng2-styled.directive.js",
+  "maintainers": [
+    {
+      "name": "targus",
+      "email": "it.targus@gmail.com"
+    }
+  ],
+  "name": "ng2-styled-directive",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bogdan1975/ng2-styled-directive.git"
+  },
+  "version": "1.0.6"
+}
